@@ -559,15 +559,7 @@
   width:1px;
   height:1px;
 }
-#u557 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u558_div {
+#u557_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -585,7 +577,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u558 {
+#u557 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -593,7 +585,7 @@
   width:94px;
   height:27px;
 }
-#u559 {
+#u558 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -602,33 +594,33 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u560_img {
+#u559_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:49px;
+  width:42px;
   height:17px;
 }
-#u560 {
+#u559 {
   border-width:0px;
   position:absolute;
-  left:13px;
+  left:41px;
   top:5px;
-  width:49px;
+  width:42px;
   height:17px;
   font-size:12px;
   text-align:center;
 }
-#u561 {
+#u560 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:49px;
+  width:42px;
   white-space:nowrap;
 }
-#u562_img {
+#u561_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -636,15 +628,15 @@
   width:19px;
   height:19px;
 }
-#u562 {
+#u561 {
   border-width:0px;
   position:absolute;
-  left:68px;
+  left:8px;
   top:4px;
   width:19px;
   height:19px;
 }
-#u563 {
+#u562 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -669,6 +661,14 @@
   top:0px;
   width:1px;
   height:1px;
+}
+#u563 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
 }
 #u564_div {
   border-width:0px;
@@ -710,15 +710,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:49px;
   height:17px;
 }
 #u566 {
   border-width:0px;
   position:absolute;
-  left:41px;
+  left:13px;
   top:5px;
-  width:42px;
+  width:49px;
   height:17px;
   font-size:12px;
   text-align:center;
@@ -728,7 +728,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:49px;
   white-space:nowrap;
 }
 #u568_img {
@@ -742,7 +742,7 @@
 #u568 {
   border-width:0px;
   position:absolute;
-  left:8px;
+  left:68px;
   top:4px;
   width:19px;
   height:19px;

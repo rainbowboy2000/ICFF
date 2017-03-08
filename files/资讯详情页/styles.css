@@ -482,15 +482,7 @@
   width:1px;
   height:1px;
 }
-#u392 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u393_div {
+#u392_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -508,7 +500,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u393 {
+#u392 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -516,7 +508,7 @@
   width:94px;
   height:27px;
 }
-#u394 {
+#u393 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -525,33 +517,33 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u395_img {
+#u394_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:49px;
+  width:42px;
   height:17px;
 }
-#u395 {
+#u394 {
   border-width:0px;
   position:absolute;
-  left:13px;
+  left:41px;
   top:5px;
-  width:49px;
+  width:42px;
   height:17px;
   font-size:12px;
   text-align:center;
 }
-#u396 {
+#u395 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:49px;
+  width:42px;
   white-space:nowrap;
 }
-#u397_img {
+#u396_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -559,15 +551,15 @@
   width:19px;
   height:19px;
 }
-#u397 {
+#u396 {
   border-width:0px;
   position:absolute;
-  left:68px;
+  left:8px;
   top:4px;
   width:19px;
   height:19px;
 }
-#u398 {
+#u397 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -592,6 +584,14 @@
   top:0px;
   width:1px;
   height:1px;
+}
+#u398 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
 }
 #u399_div {
   border-width:0px;
@@ -633,15 +633,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:49px;
   height:17px;
 }
 #u401 {
   border-width:0px;
   position:absolute;
-  left:41px;
+  left:13px;
   top:5px;
-  width:42px;
+  width:49px;
   height:17px;
   font-size:12px;
   text-align:center;
@@ -651,7 +651,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:49px;
   white-space:nowrap;
 }
 #u403_img {
@@ -665,7 +665,7 @@
 #u403 {
   border-width:0px;
   position:absolute;
-  left:8px;
+  left:68px;
   top:4px;
   width:19px;
   height:19px;
