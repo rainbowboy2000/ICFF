@@ -2219,15 +2219,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:394px;
+  width:481px;
   height:40px;
 }
 #u147 {
   border-width:0px;
   position:absolute;
-  left:298px;
+  left:255px;
   top:607px;
-  width:394px;
+  width:481px;
   height:40px;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
   font-weight:700;
@@ -2239,6 +2239,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:394px;
-  white-space:nowrap;
+  width:481px;
+  word-wrap:break-word;
 }
